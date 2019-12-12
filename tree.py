@@ -1,3 +1,5 @@
+#THIS FILE IS A SEPARATE LIBRARY FOR BINARY SEARCH TREES -- DO NOT EDIT THE SOURCES -- ARSENICULAGE
+
 class TreeNode:
     def __init__(self, value, parent = None):
         self.value = value
